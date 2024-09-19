@@ -64,7 +64,7 @@ function Terminal({close}:option){
         result = '-expirience - Krótko o doświadczeniu \n-ls - lista moich projektów \n-about-me - krótko o mnie';
         break;
       case '-ls':
-        result = 'Tu masz liste projektów.';
+        result = 'warcaby - projekt zrobiony w technologi typescript i .net\nbudget App projekt zrobiony do łatwiejszego śledzenia wydatków zrobiony w next js i node js\nparalax scroll zrobiony w html css i js\ndashboard projekt warsztatu samochodowego wzbogacony o interakcje z klientami zrobiony przy użyciu react i node js';
         break;
       case '-about-me':
         result = 'Jesteme Michał jestem w technikum Programistycznym i bardzo interesuje sie programowaniem,\npoznawaniem nowych technologi i dążeniem do postanowionych sobie celów';
